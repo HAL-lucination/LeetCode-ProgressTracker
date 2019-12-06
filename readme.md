@@ -1,7 +1,10 @@
 LeetCode
 ========
 
-### LeetCode Progress Tracker
+### Simple LeetCode Progress Tracker
+:black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::gift:
+:black_square_button::black_square_button::black_square_button::tada:
+:black_square_button::trophy:
 
 | # | Title | Solution | Difficulty | Progress |
 |---| ----- | -------- | ---------- | -------- |
