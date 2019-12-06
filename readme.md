@@ -3,7 +3,7 @@ LeetCode
 
 ### Simple LeetCode Progress Tracker
 | Easy | :black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::gift: |<br>
-| ------------- |:-------------:| -----:|
+| :------------- |:------------- |
 | Medium | :black_square_button::black_square_button::black_square_button::tada: |<br>
 | Hard | :black_square_button::trophy: |
 
