@@ -2,11 +2,11 @@ LeetCode
 ========
 
 ### Simple LeetCode Progress Tracker
-:black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::gift: <br>
-:black_square_button::black_square_button::black_square_button::tada:<br>
-:black_square_button::trophy:
+| Easy | :black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::gift: |<br>
+| Medium | :black_square_button::black_square_button::black_square_button::tada: |<br>
+| Hard | :black_square_button::trophy: |
 
-<br><br><br>
+<br>
 
 | # | Title | Solution | Difficulty | Progress |
 |---| ----- | -------- | ---------- | -------- |
