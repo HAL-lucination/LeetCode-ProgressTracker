@@ -1,3 +1,4 @@
+'''
 // Source : https://oj.leetcode.com/problems/two-sum/
 // Author : Hal
 // Date   : 2019-12-07
@@ -17,6 +18,7 @@
 *
 *
 **********************************************************************************/
+'''
 
 def twoSum(self, nums, target):
     """
