@@ -236,20 +236,20 @@ LeetCode
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| [C++](./algorithms/cpp/slidingWindowMaximum/SlidingWindowMaximum.cpp)|Hard|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[C++](./algorithms/cpp/search2DMatrix/search2DMatrix.II.cpp), [Java](./algorithms/java/src/searchA2DMatrixII/SearchA2DMatrixII.java), [Python](./algorithms/python/SearchA2DMatrixII/searchMatrix.py)|Medium|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[C++](./algorithms/cpp/differentWaysToAddParentheses/DifferentWaysToAddParentheses.cpp), [Python](./algorithms/python/DifferentWaysToAddParentheses/diffWaysToCompute.py)|Medium|
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [C++](./algorithms/cpp/anagrams/ValidAnagram.cpp), [Java](./algorithms/java/src/validAnagram/ValidAnagram.java)|Easy|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [C++](./algorithms/cpp/anagrams/ValidAnagram.cpp), [Java](./algorithms/java/src/validAnagram/ValidAnagram.java), [Python](./algorithms/python/Anagrams/ValidAnagram.py)|Easy|:heavy_check_mark:|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [C++](./algorithms/cpp/binaryTreePaths/binaryTreePaths.cpp)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| [C++](./algorithms/cpp/addDigits/addDigits.cpp)|Easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)| [C++](./algorithms/cpp/singleNumber/singleNumber.III.cpp)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [C++](./algorithms/cpp/uglyNumber/UglyNumber.cpp)|Easy|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| [C++](./algorithms/cpp/uglyNumber/UglyNumber.II.cpp)|Medium|
-|268|[Missing Number](https://leetcode.com/problems/missing-number/)| [C++](./algorithms/cpp/missingNumber/MissingNumber.cpp)|Medium|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)| [C++](./algorithms/cpp/missingNumber/MissingNumber.cpp), [C#](./algorithms/csharp/missingNumber/MissingNumber.cs), [Python](./algorithms/python/MissingNumber/MissingNumber.py)|Medium|:heavy_check_mark:|
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)| [C++](./algorithms/cpp/integerToEnglishWords/IntegerToEnglishWords.cpp)|Medium|
 |274|[H-Index](https://leetcode.com/problems/h-index/)| [C++](./algorithms/cpp/h-Index/h-Index.cpp)|Medium|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)| [C++](./algorithms/cpp/h-Index/h-Index.II.cpp)|Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [C++](./algorithms/cpp/firstBadVersion/FirstBadVersion.cpp), [Java](./algorithms/java/src/firstBadVersion/firstBadVersion.java)|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [C++](./algorithms/cpp/perfectSquares/PerfectSquares.cpp)|Medium|
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)  | [C++](./algorithms/cpp/expressionAddOperators/ExpressionAddOperators.cpp)|Hard|
-|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | [C++](./algorithms/cpp/moveZeroes/moveZeroes.cpp)|Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | [C++](./algorithms/cpp/moveZeroes/moveZeroes.cpp), [C#](./algorithms/csharp/moveZeroes/moveZeroes.cs), [Python](./algorithms/python/MoveZeroes/moveZeroes.py)|Easy|:heavy_check_mark:|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)  | [C++](./algorithms/cpp/peekingIterator/PeekingIterator.cpp)|Medium|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) &hearts; | [Java](./algorithms/java/src/inorderSuccessorInBST/inorderSuccessorInBST.java)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | [C++](./algorithms/cpp/findTheDuplicateNumber/findTheDuplicateNumber.cpp), [Python](./algorithms/python/FindTheDuplicateNumber/findDuplicate.py)|Hard|
@@ -290,14 +290,14 @@ LeetCode
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [C++](./algorithms/cpp/flattenNestedListIterator/FlattenNestedListIterator.cpp)|Medium|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [C++](./algorithms/cpp/powerOfFour/PowerOfFour.cpp)|Easy|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/) | [C++](./algorithms/cpp/integerBreak/IntegerBreak.cpp)|Medium|
-|344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./algorithms/cpp/reverseString/ReverseString.cpp)|Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [C++](./algorithms/cpp/reverseString/ReverseString.cpp), [C#](./algorithms/csharp/reverseString/ReverseString.cs), [Python](./algorithms/python/ReverseString/ReverseString.py)|Easy|:heavy_check_mark:|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [C++](./algorithms/cpp/reverseVowelsOfAString/reverseVowelsOfAString.cpp)|Easy|
-|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./algorithms/cpp/topKFrequentElements/topKFrequentElements.cpp)|Medium|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [C++](./algorithms/cpp/topKFrequentElements/topKFrequentElements.cpp), [Python](./algorithms/python/TopKFrequentElements/topKFrequentElements.py)|Medium|:heavy_check_mark:|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [C++](./algorithms/cpp/intersectionOfTwoArrays/intersectionOfTwoArrays.cpp)|Easy|
-|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./algorithms/cpp/intersectionOfTwoArrays/intersectionOfTwoArraysII.cpp)|Easy|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [C++](./algorithms/cpp/intersectionOfTwoArrays/intersectionOfTwoArraysII.cpp), [Python](./algorithms/python/IntersectionOfTwoArrays/intersectionOfTwoArraysII.py)|Easy|:heavy_check_mark:|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [C++](./algorithms/cpp/countNumbersWithUniqueDigits/CountNumbersWithUniqueDigits.cpp)|Medium|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | [C++](./algorithms/cpp/validPerfectSquare/ValidPerfectSquare.cpp)|Easy|
-|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [C++](./algorithms/cpp/sumOfTwoIntegers/SumOfTwoIntegers.cpp)|Easy|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [C++](./algorithms/cpp/sumOfTwoIntegers/SumOfTwoIntegers.cpp), [Python](./algorithms/python/SumOfTwoIntegers/SumOfTwoIntegers.py)|Easy|:heavy_check_mark:|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [C++](./algorithms/cpp/wiggleSubsequence/wiggleSubsequence.cpp)|Medium|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [C++](./algorithms/cpp/combinationSumIV/combinationSumIV.cpp)|Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [C++](./algorithms/cpp/insertDeleteGetRandom/InsertDeleteGetrandomO1.cpp)|Hard|
@@ -307,7 +307,7 @@ LeetCode
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [C++](./algorithms/cpp/shuffleAnArray/ShuffleAnArray.cpp)|Medium|
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/) | [C++](./algorithms/cpp/miniParser/MiniParser.cpp)|Medium|
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [C++](./algorithms/cpp/lexicographicalNumbers/LexicographicalNumbers.cpp)|Medium|
-|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](./algorithms/cpp/firstUniqueCharacterInAString/FirstUniqueCharacterInAString.cpp)|Easy|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [C++](./algorithms/cpp/firstUniqueCharacterInAString/FirstUniqueCharacterInAString.cpp), [Python](./algorithms/python/FirstUniqueCharacterInAString/FirstUniqueCharacterInAString.py)|Easy|:heavy_check_mark:|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [C++](./algorithms/cpp/longestAbsoluteFilePath/LongestAbsoluteFilePath.cpp)|Medium|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [C++](./algorithms/cpp/findTheDifference/FindTheDifference.cpp)|Easy|
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/) | [C++](./algorithms/cpp/eliminationGame/EliminationGame.cpp)|Medium|
@@ -329,7 +329,7 @@ LeetCode
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [C++](./algorithms/cpp/queueReconstructionByHeight/QueueReconstructionByHeight.cpp)|Medium|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [C++](./algorithms/cpp/longestPalindrome/LongestPalindrome.cpp)|Easy|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [C++](./algorithms/cpp/splitArrayLargestSum/SplitArrayLargestSum.cpp)|Hard|
-|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C++](./algorithms/cpp/fizzBuzz/FizzBuzz.cpp)|Easy|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C++](./algorithms/cpp/fizzBuzz/FizzBuzz.cpp), [C#](./algorithms/csharp/fizzBuzz/FizzBuzz.cs), [Python](./algorithms/python/FizzBuzz/FizzBuzz.py)|Easy|:heavy_check_mark:|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [C++](./algorithms/cpp/arithmeticSlices/ArithmeticSlices.cpp)|Medium|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](./algorithms/cpp/thirdMaximumNumber/ThirdMaximumNumber.cpp), [Python](./algorithms/python/ThirdMaximumNumber/thirdMax.py)|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./algorithms/cpp/addStrings/AddStrings.cpp)|Easy|
@@ -338,15 +338,19 @@ LeetCode
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Python](./algorithms/python/PathSumIII/pathSum.py)|Medium|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Python](./algorithms/python/SerializeAndDeserializeBST/serialize.py)|Medium|
 |450|[DeleteNodeInABST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Python](./algorithms/python/DeleteNodeInABST/deleteNode.py)|Medium|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Python](./algorithms/python/HammingDistance/HammingDistance.py)|Easy|:heavy_check_mark:|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [C++](./algorithms/cpp/islandPerimeter/IslandPerimeter.cpp)|Easy|
+|476|[Number Complement](https://leetcode.com/problems/number-complement/) | [Python](./algorithms/python/NumberComplement/NumberComplement.py)|Easy|:heavy_check_mark:|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [C++](./algorithms/cpp/totalHammingDistance/totalHammingDistance.cpp)|Medium|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [C++](./algorithms/cpp/fibonacciNumber/FibonacciNumber.cpp), [Python](./algorithms/python/FibonacciNumber/fib.py)|Easy|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [C++](./algorithms/cpp/coinChange/CoinChange2.cpp)|Medium|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/) | [C++](./algorithms/cpp/detectCapital/DetectCapital.cpp)|Easy|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Python](./algorithms/python/K-diffPairsInAnArray/findPairs.py)|Easy|
+|535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Python](./algorithms/python/TinyURL/TinyURL.py)|Medium|:heavy_check_mark:|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Python](./algorithms/python/ConvertBSTtoGreaterTree/convertBST.py)|Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./algorithms/python/DiameterOfBinaryTree/diameterOfBinaryTree.py)|Easy|
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/) | [C++](./algorithms/cpp/friendCircles/FriendCircles.cpp)|Medium|
+|561|[Array Partition I](https://leetcode.com/problems/array-partition-i/) | [Python](./algorithms/python/ArrayPartition/ArrayPartitionI.py)|Easy|:heavy_check_mark:|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [Python](./algorithms/python/BinaryTreeTilt/findTilt.py)|Easy|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Python](./algorithms/python/SubtreeOfAnotherTree/isSubtree.py)|Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Python](./algorithms/python/ShortestUnsortedContinuousSubarray/findUnsortedSubarray.py)|Easy|
@@ -356,6 +360,7 @@ LeetCode
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [C++](./algorithms/cpp/palindromicSubstrings/PalindromicSubstrings.cpp)|Medium|
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [Python](./algorithms/python/FindDuplicateSubtrees/findDuplicateSubtrees.py)|Medium|
 |655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/) | [Python](./algorithms/python/PrintBinaryTree/printTree.py)|Medium|
+|657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [Python](./algorithms/python/RobotReturnToOrigin/RobotReturnToOrigin.py)|Easy|:heavy_check_mark:|
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/) | [Python](./algorithms/python/ImageSmoother/imageSmoother.py)|Easy|
 |662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Python](./algorithms/python/MaximumWidthOfBinaryTree/widthOfBinaryTree.py)|Medium|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [Python](./algorithms/python/Non-decreasingArray/checkPossibility.py)|Easy|
@@ -364,24 +369,31 @@ LeetCode
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [Python](./algorithms/python/RedundantConnection/findRedundantConnection.py)|Medium|
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [Python](./algorithms/python/LongestUnivaluePath/longestUnivaluePath.py)|Easy|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [C++](./algorithms/cpp/maxAreaOfIsland/MaxAreaOfIsland.cpp)|Medium|
+|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/) | [Python](./algorithms/python/ToLowerCase/ToLowerCase.py)|Easy|:heavy_check_mark:|
 |712|[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [C++](./algorithms/cpp/minimumASCIIDeleteSumForTwoStrings/MinimumAsciiDeleteSumForTwoStrings.cpp)|Medium|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [C++](./algorithms/cpp/bestTimeToBuyAndSellStock/BestTimeToBuyAndSellStockWithTransactionFee.cpp)|Medium|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [Python](./algorithms/python/1-bitAnd2-bitCharacters/isOneBitCharacter.py)|Easy|
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [C++](./algorithms/cpp/accountsMerge/AccountsMerge.cpp)|Medium|
+|728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [Python](./algorithms/python/SelfDividingNumbers/SelfDividingNumbers.py)|Easy|:heavy_check_mark:|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](./algorithms/cpp/minCostClimbingStairs/MinCostClimbingStairs.cpp), [Python](./algorithms/python/MinCostClimbingStairs/minCostClimbingStairs.py)|Easy|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Python](./algorithms/python/LargestNumberAtLeastTwiceOfOthers/dominantIndex.py)|Easy|
-|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description) | [C++](./algorithms/cpp/jewelsAndStones/JewelsAndStones.cpp)|Easy|
-|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [C++](./algorithms/cpp/uniqueMorseCodeWords/UniqueMorseCodeWords.cpp)|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description) | [C++](./algorithms/cpp/jewelsAndStones/JewelsAndStones.cpp), [C#](./algorithms/csharp/jewelsAndStones/JewelsAndStones.cs), [Python](./algorithms/python/JewelsAndStones/JewelsAndStones.py)|Easy|:heavy_check_mark:|
+|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [C++](./algorithms/cpp/uniqueMorseCodeWords/UniqueMorseCodeWords.cpp), [Python](./algorithms/python/UniqueMorseCodeWords/UniqueMorseCodeWords.py)|Easy|:heavy_check_mark:|
+|807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [Python](./algorithms/python/MaxIncreaseToKeepCitySkyline/MaxIncreaseToKeepCitySkyline.py)|Medium|:heavy_check_mark:|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [Python](./algorithms/python/PositionsOfLargeGroups/largeGroupPositions.py)|Easy|
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Python](./algorithms/python/FlippinAnImage/FlippinAnImage.py)|Easy|:heavy_check_mark:|
 |837|[Most Common Word](https://leetcode.com/problems/most-common-word/) | [C++](./algorithms/cpp/mostCommonWord/MostCommonWord.cpp)|Easy|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [C++](./algorithms/cpp/backspaceStringCompare/BackspaceStringCompare.cpp)|Easy|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Python](./algorithms/python/MaximizeDistanceToClosestPerson/maxDistToClosest.py)|Easy|
-|852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [C++](./algorithms/cpp/peakIndexInAMountainArray/PeakIndexInAMountainArray.cpp)|Easy|
+|852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [C++](./algorithms/cpp/peakIndexInAMountainArray/PeakIndexInAMountainArray.cpp), [Python](./algorithms/python/PeakIndexInAMountainArray/PeakIndexInAMountainArray.py)|Easy|:heavy_check_mark:|
 |858|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [C++](./algorithms/cpp/mirrorReflection/MirrorReflection.cpp)|Medium|
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [C++](./algorithms/cpp/buddyStrings/BuddyStrings.cpp)|Easy|
+|861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/) | [Python](./algorithms/python/ScoreAfterFlippingMatrix/ScoreAfterFlippingMatrix.py)|Medium|:heavy_check_mark:|
+|867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Python](./algorithms/python/TransposeMatrix/TransposeMatrix.py)|Easy|:heavy_check_mark:|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [C++](./algorithms/cpp/sortArrayByParity/SortArrayByParity.cpp)|Easy|
 |914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Python](./algorithms/python/XOfAKindInADeckOfCards/hasGroupsSizeX.py)|Easy|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [C++](./algorithms/cpp/sortArrayByParity/SortArrayByParity.II.cpp)|Easy|
+|929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Python](./algorithms/python/UniqueEmailAddresses/UniqueEmailAddresses.py)|Easy|:heavy_check_mark:|
 |931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [C++](./algorithms/cpp/minimumFallingPathSum/MinimumFallingPathSum.cpp)|Medium|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Python](./algorithms/python/ValidMountainArray/validMountainArray.py)|Easy|
 |950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Python](./algorithms/python/RevealCardsInIncreasingOrder/deckRevealedIncreasing.py)|Medium|
