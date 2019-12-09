@@ -2,9 +2,9 @@ LeetCode
 ========
 
 ### Simple LeetCode Progress Tracker
-| Easy | :white_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::gift: |
+| Easy | :white_square_button::white_square_button::black_square_button::white_square_button::white_square_button::white_square_button::white_square_button::black_square_button::black_square_button::gift: |
 | :------------- |:------------- |
-| Medium | :white_square_button::black_square_button::black_square_button::tada: |
+| Medium | :white_square_button::white_square_button::black_square_button::tada: |
 | Hard | :black_square_button::trophy: |
 
 <br>
@@ -13,7 +13,7 @@ LeetCode
 |---| ----- | -------- | ---------- | -------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](./algorithms/cpp/twoSum/twoSum.cpp), [Go](./algorithms/golang/twoSum/twoSum.go), [Python](./algorithms/python/TwoSum/twoSum.py)|Easy|:heavy_check_mark:|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [C++](./algorithms/cpp/addTwoNumbers/addTwoNumbers.cpp), [Python](./algorithms/python/AddTwoNumbers/addTwoNumbers.py)|Medium|:heavy_check_mark:|
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./algorithms/cpp/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.cpp)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](./algorithms/cpp/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.cpp), [Python](./algorithms/python/LongestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.py)|Medium|:heavy_check_mark:|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [C++](./algorithms/cpp/medianOfTwoSortedArrays/medianOfTwoSortedArrays.cpp)|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [C++](./algorithms/cpp/longestPalindromicSubstring/longestPalindromicSubstring.cpp)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [C++](./algorithms/cpp/zigZagConversion/zigZagConversion.cpp)|Easy|
