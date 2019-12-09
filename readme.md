@@ -2,7 +2,7 @@ LeetCode
 ========
 
 ### Simple LeetCode Progress Tracker
-| Easy | :white_square_button::white_square_button::black_square_button::white_square_button::white_square_button::white_square_button::white_square_button::black_square_button::black_square_button::gift: |
+| Easy | :white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::white_square_button::black_square_button::black_square_button::gift: |
 | :------------- |:------------- |
 | Medium | :white_square_button::white_square_button::black_square_button::tada: |
 | Hard | :black_square_button::trophy: |
